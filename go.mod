@@ -1,4 +1,4 @@
-module github.com/serverwentdown/alias
+module github.com/guarandoo/alias
 
 go 1.15
 
